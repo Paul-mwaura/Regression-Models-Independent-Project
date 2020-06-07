@@ -1,6 +1,6 @@
 # Regression-Models
-Multilinear, Quantile, Ridge, Lasso and Elastic Net Regressions
-# Lasso-Regression
+
+## **Multilinear, Quantile, Ridge, Lasso and Elastic Net Regressions**
 
 # Specifying Questions
 > This repository covers the appilcation of Lasso regression on a dataset.

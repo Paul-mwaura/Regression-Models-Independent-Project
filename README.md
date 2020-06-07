@@ -31,7 +31,17 @@
 > Elastic Net Regression
 
 # SetUp and Installations
-Google Colaboratory/Jupyter Notebooks Python Libraries Pandas Numpy Matplotlib Seaborn sklearn
+Google Colaboratory/Jupyter Notebooks Python Libraries 
+
+> Pandas 
+
+> Numpy 
+
+> Matplotlib 
+
+> Seaborn 
+
+> Sklearn
 
 # Known Bugs
 None
